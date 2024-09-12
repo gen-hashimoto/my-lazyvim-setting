@@ -6,4 +6,4 @@ local opt = vim.opt
 
 opt.relativenumber = false -- Relative line numbers
 opt.wrap = true -- line wrap
-opt.winbar = "%=%m %f" -- path
+opt.winbar = "%=%m %f" -- show file path on the winbar
